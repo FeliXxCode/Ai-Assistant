@@ -52,4 +52,6 @@
 **Клиент:** Да.  
 **Ассистент:** Бронь успешно оформлена! Время визита добавлено в календарь. Ждем вас сегодня в 19:00. Если возникнут вопросы, обращайтесь!
 
-![Иллюстрация к проекту](https://github.com/FeliXxCode/Ai-Assistant/blob/main/Telegram_uOaMpJF4EX.png?raw=true) 
+![1 Иллюстрация к проекту](https://github.com/FeliXxCode/Ai-Assistant/blob/main/Telegram_uOaMpJF4EX.png?raw=true)
+![2 Иллюстрация к проекту](https://github.com/FeliXxCode/Ai-Assistant/blob/main/Telegram_uOaMpJF4EX.png?raw=true)
+
